@@ -1,4 +1,4 @@
-FROM node:16.13.0
+FROM node:lts
 ENV NODE_ENV=production
 
 WORKDIR /app
